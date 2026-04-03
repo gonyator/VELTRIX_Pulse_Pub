@@ -10,7 +10,9 @@
 
 ---
 
-<img width="1464" height="942" alt="image" src="https://github.com/gonyator/VELTRIX_Pulse_Pub/blob/main/example.png" />
+<a href="https://github.com/gonyator/VELTRIX_Pulse_Pub/blob/main/example.png" target="_blank" rel="noopener noreferrer">
+    <img width="1464" height="942" alt="image" src="https://github.com/gonyator/VELTRIX_Pulse_Pub/blob/main/example.png" />
+</a>
 
 
 ## 📑 목차
