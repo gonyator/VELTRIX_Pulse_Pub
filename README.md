@@ -10,7 +10,7 @@
 
 ---
 
-[![image](https://github.com/gonyator/VELTRIX_Pulse_Pub/blob/main/example.png)](https://github.com/gonyator/VELTRIX_Pulse_Pub/blob/main/example.png?raw=true)
+[![image](https://raw.githubusercontent.com/gonyator/VELTRIX_Pulse_Pub/main/example.png)](https://raw.githubusercontent.com/gonyator/VELTRIX_Pulse_Pub/main/example.png)
 
 
 ## 📑 목차
